@@ -1,4 +1,3 @@
-/*Imprime cantidad de vocales en Vector*/
 %option noyywrap
 %{
 #include <stdio.h>
